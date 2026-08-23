@@ -25,14 +25,14 @@
 #define LED_GPIO GPIO_NUM_4
 
 /* Wi-Fi credentials */
-#define WIFI_SSID "Swati_Hotspot"
-#define WIFI_PASSWORD "12345678"
+#define WIFI_SSID "HOTSPOT NAME"
+#define WIFI_PASSWORD "PASSWORD"
 
 /* HiveMQ Cloud */
 #define MQTT_BROKER_URI "mqtts://9acc69a4fa1646a0878d3072c1407b30.s1.eu.hivemq.cloud:8883"
 
-#define MQTT_USERNAME "swati_esp32"
-#define MQTT_PASSWORD "password123"
+#define MQTT_USERNAME "Username"
+#define MQTT_PASSWORD "Password"
 
 /* MQTT topic */
 #define MQTT_TOPIC "esp32/led"
